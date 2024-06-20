@@ -1,0 +1,54 @@
+{
+  "stats": {
+    "suites": 1,
+    "tests": 2,
+    "passes": 2,
+    "pending": 0,
+    "failures": 0,
+    "start": "2024-06-20T19:03:38.201Z",
+    "end": "2024-06-20T19:03:38.208Z",
+    "duration": 7
+  },
+  "tests": [
+    {
+      "title": "contains a <link> tag",
+      "fullTitle": "index.html contains a <link> tag",
+      "file": "C:\\Users\\mafab\\OneDrive\\Desktop\\Innovations - Developments\\Website Development School Work\\phase-0-exceptional_realty_group\\test\\indexTest.js",
+      "duration": 1,
+      "currentRetry": 0,
+      "speed": "fast",
+      "err": {}
+    },
+    {
+      "title": "correctly links to the style.css file with a relative path",
+      "fullTitle": "index.html correctly links to the style.css file with a relative path",
+      "file": "C:\\Users\\mafab\\OneDrive\\Desktop\\Innovations - Developments\\Website Development School Work\\phase-0-exceptional_realty_group\\test\\indexTest.js",
+      "duration": 2,
+      "currentRetry": 0,
+      "speed": "fast",
+      "err": {}
+    }
+  ],
+  "pending": [],
+  "failures": [],
+  "passes": [
+    {
+      "title": "contains a <link> tag",
+      "fullTitle": "index.html contains a <link> tag",
+      "file": "C:\\Users\\mafab\\OneDrive\\Desktop\\Innovations - Developments\\Website Development School Work\\phase-0-exceptional_realty_group\\test\\indexTest.js",
+      "duration": 1,
+      "currentRetry": 0,
+      "speed": "fast",
+      "err": {}
+    },
+    {
+      "title": "correctly links to the style.css file with a relative path",
+      "fullTitle": "index.html correctly links to the style.css file with a relative path",
+      "file": "C:\\Users\\mafab\\OneDrive\\Desktop\\Innovations - Developments\\Website Development School Work\\phase-0-exceptional_realty_group\\test\\indexTest.js",
+      "duration": 2,
+      "currentRetry": 0,
+      "speed": "fast",
+      "err": {}
+    }
+  ]
+}
